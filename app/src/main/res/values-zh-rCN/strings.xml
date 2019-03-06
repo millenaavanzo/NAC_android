@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">国家</string>
+    <string name="food" translatable="false">炒面</string>
+    <string name="flag">中国</string>
+</resources>

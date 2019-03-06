@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">χώρες</string>
+    <string name="food" translatable="false">Moussaka</string>
+    <string name="flag">ελλάδα</string>
+</resources>
